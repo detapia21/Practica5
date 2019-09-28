@@ -1,0 +1,46 @@
+.container-fluid{
+    width: 90%;
+    text-align: center;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.register-container{
+    border: solid 2px lightgray;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 40%;
+    border-radius: 10px;
+    display: inline-block
+}
+
+.jumbotron{
+    padding-bottom: 5px; 
+    padding-top: 5px;
+    text-align: center;
+}
+
+#nuevo-articulo{
+    text-align: center;
+}
+
+li{
+    list-style-type: none;
+}
+
+body{
+    text-align: center;
+    padding: 2rem;
+
+}
+
+#tabla-articulos{
+    margin-top: 1rem;
+}
+
+#btn-registrar{
+    margin: 1rem;
+}
